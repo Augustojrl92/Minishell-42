@@ -191,10 +191,9 @@ minishell/
 │  ├─ signals/     # handlers y modos de señal
 │  └─ utils/       # auxiliares, libft extendida
 ├─ include/        # headers
-└─ libft/          # tu libft
+└─ libft/          # libft 42 
 ```
 
-> Tu proyecto real incluye todos estos módulos (y más utilidades de *libft*), con ~120 archivos entre código y soporte.
 
 ---
 
